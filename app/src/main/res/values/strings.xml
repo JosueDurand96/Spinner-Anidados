@@ -1,3 +1,90 @@
 <resources>
     <string name="app_name">Spinner Anidados</string>
+
+
+    <string-array name="array_departamento">
+        <item>Amazonas</item>
+        <item>Ancash</item>
+        <item>Lima</item>
+    </string-array>
+
+    <string-array name="array_amazonas">
+        <item>Chachapoyas</item>
+        <item>Bagua</item>
+        <item>Bongará</item>
+        <item>Condorcanqui</item>
+        <item>Luya</item>
+        <item>Rodríguez</item>
+        <item>Utcubamba</item>
+    </string-array>
+    <string-array name="array_ancash">
+        <item>Huaraz </item>
+        <item>Aija</item>
+        <item>Antonio Raymond</item>
+        <item>Asunción</item>
+        <item>Bolognesi</item>
+        <item>Carhuaz</item>
+        <item>Carlos Fermín Fitzcarrald</item>
+        <item>Casma</item>
+        <item>Corongo</item>
+        <item>Huari</item>
+        <item>Huarmey</item>
+        <item>Huaylas</item>
+        <item>Mariscal Luzuriaga</item>
+        <item>Ocros</item>
+        <item>Pallasca</item>
+    </string-array>
+
+    <string-array name="array_lima">
+        <item>Lima</item>
+        <item>Barranca</item>
+        <item>Cajatambo</item>
+        <item>Canta </item>
+        <item>Cañete </item>
+        <item>Huaral </item>
+        <item>Huarochirí</item>
+        <item>Huaura </item>
+        <item>Oyón </item>
+        <item>Yauyos </item>
+    </string-array>
+
+    <string-array name="array_distrito_lima">
+        <item>Lima</item>
+        <item>ANCÓN</item>
+        <item>ATE</item>
+        <item>BARRANCO</item>
+        <item>BREÑA</item>
+        <item>CARABAYLLO</item>
+        <item>CHACLACAYO</item>
+        <item>CHORRILLOS</item>
+        <item>CIENEGUILLA</item>
+        <item>COMAS</item>
+        <item>EL AGUSTINO</item>
+        <item>INDEPENDENCIA</item>
+        <item>JESÚS MARÍA</item>
+        <item>LA MOLINA</item>
+        <item>LA VICTORIA</item>
+        <item>LINCE</item>
+        <item>RIMAC</item>
+    </string-array>
+
+    <string-array name="array_distrito_barranca">
+        <item>Barranca 1</item>
+        <item>Barranca</item>
+        <item>Barranca</item>
+        <item>Barranca</item>
+        <item>BREÑA</item>
+        <item>CARABAYLLO</item>
+        <item>CHACLACAYO</item>
+        <item>CHORRILLOS</item>
+        <item>CIENEGUILLA</item>
+        <item>COMAS</item>
+        <item>EL AGUSTINO</item>
+        <item>INDEPENDENCIA</item>
+        <item>JESÚS MARÍA</item>
+        <item>LA MOLINA</item>
+        <item>LA VICTORIA</item>
+        <item>LINCE</item>
+        <item>RIMAC</item>
+    </string-array>
 </resources>
