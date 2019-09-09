@@ -2,50 +2,29 @@
     <string name="app_name">Spinner Anidados</string>
 
 
-    <string-array name="array_departamento">
-        <item>Amazonas</item>
-        <item>Ancash</item>
-        <item>Lima</item>
+    <string-array name="array_Provincia">
+        <item>Padre Abad</item>
+        <item>Puerto Inca</item>
+        <item>Coronel Portillo</item>
     </string-array>
 
-    <string-array name="array_amazonas">
-        <item>Chachapoyas</item>
-        <item>Bagua</item>
-        <item>Bongará</item>
-        <item>Condorcanqui</item>
-        <item>Luya</item>
-        <item>Rodríguez</item>
-        <item>Utcubamba</item>
+    <string-array name="array_distrito_padre_abad">
+        <item>Padre Abad</item>
+        <item>Irázola</item>
+        <item>Curimaná</item>
+        <item>Alexander von Humboldt</item>
+        <item>Neshuya</item>
     </string-array>
-    <string-array name="array_ancash">
-        <item>Huaraz </item>
-        <item>Aija</item>
-        <item>Antonio Raymond</item>
-        <item>Asunción</item>
-        <item>Bolognesi</item>
-        <item>Carhuaz</item>
-        <item>Carlos Fermín Fitzcarrald</item>
-        <item>Casma</item>
-        <item>Corongo</item>
-        <item>Huari</item>
-        <item>Huarmey</item>
-        <item>Huaylas</item>
-        <item>Mariscal Luzuriaga</item>
-        <item>Ocros</item>
-        <item>Pallasca</item>
+    <string-array name="array_distrito_puerto_inca">
+        <item>Puerto Inca</item>
+        <item>Codo del Pozuzo</item>
+        <item>Honoria</item>
+        <item>Tournavista</item>
+        <item>Yuyapichis</item>
     </string-array>
 
-    <string-array name="array_lima">
-        <item>Lima</item>
-        <item>Barranca</item>
-        <item>Cajatambo</item>
-        <item>Canta </item>
-        <item>Cañete </item>
-        <item>Huaral </item>
-        <item>Huarochirí</item>
-        <item>Huaura </item>
-        <item>Oyón </item>
-        <item>Yauyos </item>
+    <string-array name="array_nueva_requena">
+        <item>Nueva Requena</item>
     </string-array>
 
     <string-array name="array_distrito_lima">
