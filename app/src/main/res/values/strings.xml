@@ -70,9 +70,49 @@
 
     <string-array name="array_distrito_barranca">
         <item>Barranca 1</item>
-        <item>Barranca</item>
-        <item>Barranca</item>
-        <item>Barranca</item>
+        <item>Barranca 1</item>
+        <item>Barranca 1</item>
+        <item>Barranca 1</item>
+        <item>BREÑA</item>
+        <item>CARABAYLLO</item>
+        <item>CHACLACAYO</item>
+        <item>CHORRILLOS</item>
+        <item>CIENEGUILLA</item>
+        <item>COMAS</item>
+        <item>EL AGUSTINO</item>
+        <item>INDEPENDENCIA</item>
+        <item>JESÚS MARÍA</item>
+        <item>LA MOLINA</item>
+        <item>LA VICTORIA</item>
+        <item>LINCE</item>
+        <item>RIMAC</item>
+    </string-array>
+
+    <string-array name="array_distrito_Canta">
+        <item>Canta 1</item>
+        <item>Canta 1</item>
+        <item>Canta 1</item>
+        <item>BARRANCO</item>
+        <item>BREÑA</item>
+        <item>CARABAYLLO</item>
+        <item>CHACLACAYO</item>
+        <item>CHORRILLOS</item>
+        <item>CIENEGUILLA</item>
+        <item>COMAS</item>
+        <item>EL AGUSTINO</item>
+        <item>INDEPENDENCIA</item>
+        <item>JESÚS MARÍA</item>
+        <item>LA MOLINA</item>
+        <item>LA VICTORIA</item>
+        <item>LINCE</item>
+        <item>RIMAC</item>
+    </string-array>
+
+    <string-array name="array_distrito_Cajatambo">
+        <item>Cajatambo 1</item>
+        <item>Cajatambo 1</item>
+        <item>Cajatambo 1</item>
+        <item>Cajatambo 1</item>
         <item>BREÑA</item>
         <item>CARABAYLLO</item>
         <item>CHACLACAYO</item>
